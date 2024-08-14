@@ -1,1 +1,1 @@
-Deployed on alexye999.github.io/admin-dashboard
+Deployed on https://alexye999.github.io/admin-dashboard
